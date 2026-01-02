@@ -1,9 +1,13 @@
-# PRODIGY Data Science Tasks
+# PRODIGY Data Science Internship Tasks
 
-This repository contains all Prodigy InfoTech Data Science internship tasks.
+This repository contains the tasks completed as part of the **Prodigy InfoTech Data Science Internship**.
 
-## Folder Structure
-- PRODIGY_DS_01 – Task 1
-- PRODIGY_DS_02 – Task 2
-- PRODIGY_DS_03 – Task 3
-- PRODIGY_DS_05 – Task 5
+## Tasks Overview
+- **PRODIGY_DS_01** – Population Data Visualization
+- **PRODIGY_DS_02** – Exploratory Data Analysis
+- **PRODIGY_DS_03** – Decision Tree Classification
+- **PRODIGY_DS_05** – Traffic Accident Data Analysis
+
+Each folder contains:
+- A Jupyter Notebook with full implementation
+- A README file explaining the task
