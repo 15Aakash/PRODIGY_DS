@@ -1,4 +1,4 @@
-# PRODIGY Data Science Internship Tasks
+# PRODIGY Data Analyst Internship Tasks
 
 This repository contains the tasks completed as part of the **Prodigy InfoTech Data Science Internship**.
 
